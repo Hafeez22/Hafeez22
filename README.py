@@ -7,10 +7,10 @@ for i in range(100):
 
 print("Hii... I am Hafeez")
 print("I am intrested in Full Stack Web Development, Android App Development and Software Development")
-print("Curently I am Studying 3rd Year BCA in Wakfboard College, Madurai, Tamil Nadu, India")
+print("Curently I am Studying 3rd Year BCA at Wakfboard College, Madurai, Tamil Nadu")
 
 print("python is my favourite Programming Language")
-print("I also Created Django Based Website For My Father Shop and I commit this Project in My Repositary")
+print("I also Created Django Based Website")
   Programming Languages Known:
     c
     c++
